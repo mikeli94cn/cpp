@@ -14,4 +14,5 @@ int main() {
   }
   string output = format("today is {},mood is {}\n", today, mood);
   cout << output;
+    printf("hello world\n");
 }
